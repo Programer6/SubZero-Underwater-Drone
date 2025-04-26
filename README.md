@@ -15,17 +15,9 @@ This is the control system for my custom-designed Underwater Remotely Controlled
 - Thrusters: `Brushed or brushless with ESCs`
 - Sensors: `IMU + Depth sensor (e.g. barometric or ultrasonic)`
 
-## 📂 File Overview
-
-| File | Description |
-|------|-------------|
-| `main.ino` | Main code running the PID loops and thruster logic |
-| `pid.h` / `pid.cpp` | Modular PID class for clean integration |
-| `serial_tuner.h` | Live tuning interface via serial monitor |
-
 ## 📷 Preview
+![Underwater RCV Preview](https://hc-cdn.hel1.your-objectstorage.com/s/v3/169cacbaa439b9f39284ee3624f8a8b8d77cbbc2_image.png)
 
-> Add a photo or CAD render of your underwater RCV here!
 
 ## 🧪 How to Use
 
@@ -33,6 +25,8 @@ This is the control system for my custom-designed Underwater Remotely Controlled
 2. Connect sensors and thrusters.
 3. Use the serial monitor to tune your PID values.
 4. Test in a controlled water environment 🧪🌊
+
+(will add a detailed guide once made )
 
 ## 📜 License
 
