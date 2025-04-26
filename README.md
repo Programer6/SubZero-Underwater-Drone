@@ -1,7 +1,7 @@
 # SubZero - Underwater-Drone
 # Underwater RCV Controller 🤿⚙️
 
-This is the control system for my custom-designed Underwater Remotely Controlled Vehicle (RCV). It features real-time depth and heading stabilization using dual PID loops.
+This is the control system for my custom-designed Underwater Remotely Controlled Vehicle (RCV) which is completely 3d Printable (see CAD files). It features real-time depth and heading stabilization using dual PID loops.
 
 ## Features
 
